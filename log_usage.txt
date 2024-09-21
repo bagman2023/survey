@@ -471,3 +471,4 @@
 2024-09-21 11:33:10 - 使用记录成功 - IP: 1.161.33.151
 2024-09-21 11:34:53 - 使用记录成功 - IP: 获取IP时出错: HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
 2024-09-21 11:36:54 - 使用记录成功 - IP: 1.161.33.151
+2024-09-21 11:37:54 - 使用记录成功 - IP: 1.161.33.151
