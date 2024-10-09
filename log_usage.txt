@@ -1049,3 +1049,4 @@
 2024-10-09 14:39:10 - 使用记录成功 - IP: 111.247.1.10
 2024-10-09 14:43:59 - 使用记录成功 - IP: 获取IP时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
 2024-10-09 14:44:23 - 使用记录成功 - IP: 获取IP时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2024-10-09 14:45:44 - 使用记录成功 - IP: 获取IP时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
