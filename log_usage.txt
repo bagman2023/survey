@@ -190,3 +190,4 @@
 2024-11-10 20:37:11 - 使用记录成功 - 用户名: 未知用户 - IP: 获取IP时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
 2024-11-10 20:42:05 - 使用记录成功 - 用户名: 未知用户 - IP: 61.228.64.237
 2024-11-10 20:42:56 - 使用记录成功 - 用户名: 未知用户 - IP: 61.228.64.237
+2024-11-10 21:30:11 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025B93BB6AD0>: Failed to resolve 'api.ipify.org' ([Errno 11001] getaddrinfo failed)"))
