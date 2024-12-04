@@ -1,18 +1,18 @@
 {
-    "UserProjA0001": {
+    "biking2024": {
         "email": "pheweralode@outlook.com",
-        "phone_number": null,
         "password": "tctc269285748",
+        "phone_number": null,
         "is_used": false,
         "last_login": "2024-12-04T15:00:00Z",
         "user_type": "regular"
     },
-    "UserProjA0002": {
-        "email": "user2@example.com",
-        "phone_number": "1234567890",
-        "password": "password456",
-        "is_used": true,
+    "UserProjA0001": {
+        "email": "nesmithighgab1992@outlook.com",
+        "password": "7jk74eG401",
+        "phone_number": null,
+        "is_used": false,
         "last_login": "2024-12-04T15:00:00Z",
-        "user_type": "premium"
+        "user_type": "regular"
     }
 }
