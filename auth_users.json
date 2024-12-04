@@ -15,4 +15,20 @@
         "last_login": "2024-12-04T15:00:00Z",
         "user_type": "regular"
     }
+    "UserProjA0002": {
+        "email": "thorssubslongcu1981@outlook.com",
+        "password": "OTgMom5eC3",
+        "phone_number": null,
+        "is_used": false,
+        "last_login": "2024-12-04T15:00:00Z",
+        "user_type": "regular"
+    }
+    "UserProjA0003": {
+        "email": "withdcharrio@outlook.com",
+        "password": "fkvgUute5F",
+        "phone_number": null,
+        "is_used": false,
+        "last_login": "2024-12-04T15:00:00Z",
+        "user_type": "regular"
+    }
 }
