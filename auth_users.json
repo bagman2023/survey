@@ -1,5 +1,6 @@
 {
     "biking2024": {
+        "user": "biking2024",
         "email": "pheweralode@outlook.com",
         "password": "/iWvphH9+3JxHLVL7z6dtmK0siZ9ITpoYX17bMk=",
         "phone_number": null,
@@ -8,6 +9,7 @@
         "user_type": "regular"
     },
     "UserProjA0001": {
+        "user": "UserProjA0001",
         "email": "nesmithighgab1992@outlook.com",
         "password": "I22sptIoDkccMi1/xjQQRrWZzPG3Ml/thNo=",
         "phone_number": null,
@@ -16,6 +18,7 @@
         "user_type": "regular"
     },
     "UserProjA0002": {
+        "user": "UserProjA0002",
         "email": "thorssubslongcu1981@outlook.com",
         "password": "HCXC54c3fcnsKqRwm/ltE3RvV4YC+Tp46SI=",
         "phone_number": null,
@@ -24,6 +27,7 @@
         "user_type": "regular"
     },
     "UserProjA0003": {
+        "user": "UserProjA0003",
         "email": "withdcharrio@outlook.com",
         "password": "UNx8PnUXX9P1xlW+3THeCg/djCS/pWbgvgk=",
         "phone_number": null,
