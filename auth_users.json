@@ -52,5 +52,14 @@
         "is_used": true,
         "last_login": "2024-12-09T19:01:37Z",
         "user_type": "regular"
+    },
+    "dfasfd1234": {
+        "user": "dfasfd1234",
+        "email": "12341@3123.com",
+        "password": null,
+        "phone_number": "151253235123",
+        "is_used": true,
+        "last_login": "2024-12-09T19:02:47Z",
+        "user_type": "regular"
     }
 }
