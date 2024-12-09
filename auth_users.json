@@ -34,32 +34,5 @@
         "is_used": false,
         "last_login": "2024-12-04T15:00:00Z",
         "user_type": "regular"
-    },
-    "asdasd123": {
-        "user": "asdasd123",
-        "email": "123412@12313.com",
-        "password": null,
-        "phone_number": "15258816175",
-        "is_used": false,
-        "last_login": "2024-12-09T16:45:20Z",
-        "user_type": "regular"
-    },
-    "asd123dasd": {
-        "user": "asd123dasd",
-        "email": "1234@3123.com",
-        "password": null,
-        "phone_number": "15258816898",
-        "is_used": false,
-        "last_login": "2024-12-09T16:58:49Z",
-        "user_type": "regular"
-    },
-    "21342314": {
-        "user": "21342314",
-        "email": "14@123.1",
-        "password": null,
-        "phone_number": "1111111111111",
-        "is_used": false,
-        "last_login": "2024-12-09T17:10:05Z",
-        "user_type": "regular"
     }
 }
