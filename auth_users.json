@@ -34,5 +34,14 @@
         "is_used": false,
         "last_login": "2024-12-04T15:00:00Z",
         "user_type": "regular"
+    },
+    "ysqabc1234": {
+        "user": "ysqabc1234",
+        "email": "783@123.com",
+        "password": null,
+        "phone_number": "15258816173",
+        "is_used": true,
+        "last_login": "2024-12-09T18:44:13Z",
+        "user_type": "regular"
     }
 }
