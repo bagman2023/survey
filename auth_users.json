@@ -88,5 +88,14 @@
         "is_used": true,
         "last_login": "2024-12-09T19:11:10Z",
         "user_type": "regular"
+    },
+    "3244asda1": {
+        "user": "3244asda1",
+        "email": "214@3123.com",
+        "password": null,
+        "phone_number": "111111111111",
+        "is_used": true,
+        "last_login": "2024-12-09T19:15:04Z",
+        "user_type": "regular"
     }
 }
