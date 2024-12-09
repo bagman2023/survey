@@ -43,5 +43,14 @@
         "is_used": false,
         "last_login": "2024-12-09T16:45:20Z",
         "user_type": "regular"
+    },
+    "asd123dasd": {
+        "user": "asd123dasd",
+        "email": "1234@3123.com",
+        "password": null,
+        "phone_number": "15258816898",
+        "is_used": false,
+        "last_login": "2024-12-09T16:58:49Z",
+        "user_type": "regular"
     }
 }
