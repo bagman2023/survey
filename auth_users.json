@@ -43,5 +43,14 @@
         "is_used": true,
         "last_login": "2024-12-09T22:27:39Z",
         "user_type": "regular"
+    },
+    "sadsd23123": {
+        "user": "sadsd23123",
+        "email": "asd123@qwe1.com",
+        "password": null,
+        "phone_number": "15258816174",
+        "is_used": true,
+        "last_login": "2024-12-09T23:08:12Z",
+        "user_type": "regular"
     }
 }
