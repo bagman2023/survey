@@ -124,5 +124,14 @@
         "is_used": true,
         "last_login": "2024-12-09T19:27:39Z",
         "user_type": "regular"
+    },
+    "123123sda": {
+        "user": "123123sda",
+        "email": "1234@3132.com",
+        "password": null,
+        "phone_number": "152581343243",
+        "is_used": true,
+        "last_login": "2024-12-09T21:31:54Z",
+        "user_type": "regular"
     }
 }
