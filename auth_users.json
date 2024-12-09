@@ -61,5 +61,14 @@
         "is_used": true,
         "last_login": "2024-12-09T19:02:47Z",
         "user_type": "regular"
+    },
+    "234dfsf1": {
+        "user": "234dfsf1",
+        "email": "234@123.com",
+        "password": null,
+        "phone_number": "15258816174",
+        "is_used": true,
+        "last_login": "2024-12-09T19:05:00Z",
+        "user_type": "regular"
     }
 }
