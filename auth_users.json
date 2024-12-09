@@ -79,5 +79,14 @@
         "is_used": true,
         "last_login": "2024-12-09T19:10:45Z",
         "user_type": "regular"
+    },
+    "21242sda6": {
+        "user": "21242sda6",
+        "email": "23424@3123.com",
+        "password": null,
+        "phone_number": "241234212411",
+        "is_used": true,
+        "last_login": "2024-12-09T19:11:10Z",
+        "user_type": "regular"
     }
 }
