@@ -52,5 +52,14 @@
         "is_used": false,
         "last_login": "2024-12-09T16:58:49Z",
         "user_type": "regular"
+    },
+    "21342314": {
+        "user": "21342314",
+        "email": "14@123.1",
+        "password": null,
+        "phone_number": "1111111111111",
+        "is_used": false,
+        "last_login": "2024-12-09T17:10:05Z",
+        "user_type": "regular"
     }
 }
