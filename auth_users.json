@@ -133,5 +133,14 @@
         "is_used": true,
         "last_login": "2024-12-09T21:31:54Z",
         "user_type": "regular"
+    },
+    "21424asda2": {
+        "user": "21424asda2",
+        "email": "123412@351231.com",
+        "password": null,
+        "phone_number": "111111111113",
+        "is_used": true,
+        "last_login": "2024-12-09T21:38:50Z",
+        "user_type": "regular"
     }
 }
