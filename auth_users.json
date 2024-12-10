@@ -160,5 +160,14 @@
         "is_used": true,
         "last_login": "2024-12-10T23:02:13Z",
         "user_type": "regular"
+    },
+    "sdasd3231sd": {
+        "user": "sdasd3231sd",
+        "email": "JVDLW4tEcbl1ZCt4W83EYq64Xt8BAYi4WdVR8wHq7q3Tcw==",
+        "password": null,
+        "phone_number": "GoN5EAuFRBiMw/V+st7nHb86Lzk3EQKpYmih",
+        "is_used": true,
+        "last_login": "2024-12-10T23:09:00Z",
+        "user_type": "regular"
     }
 }
