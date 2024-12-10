@@ -124,5 +124,14 @@
         "is_used": true,
         "last_login": "2024-12-10T21:41:29Z",
         "user_type": "regular"
+    },
+    "asd12313a": {
+        "user": "asd12313a",
+        "email": "XwOtuJjK5noCV4YbIFYi7iPDF+oUx/7L879dnUSs4w==",
+        "password": null,
+        "phone_number": "tP3/XX3UP1Bky/SsEIW45rYcUdko6gRLaglwwQ==",
+        "is_used": true,
+        "last_login": "2024-12-10T21:45:41Z",
+        "user_type": "regular"
     }
 }
