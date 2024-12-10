@@ -34,41 +34,5 @@
         "is_used": false,
         "last_login": "2024-12-04T15:00:00Z",
         "user_type": "regular"
-    },
-    "sadsd23123": {
-        "user": "sadsd23123",
-        "email": "asd123@qwe1.com",
-        "password": null,
-        "phone_number": "15258816174",
-        "is_used": true,
-        "last_login": "2024-12-09T23:08:12Z",
-        "user_type": "regular"
-    },
-    "asdasd123": {
-        "user": "asdasd123",
-        "email": "v6e5Y7vBaUb8ftP319oX4ATN62WPv+Z/XM+qnE+2",
-        "password": null,
-        "phone_number": "91bxQZguTIVvpr79FqQYHVZNnN1skitIpyZvXQ==",
-        "is_used": true,
-        "last_login": "2024-12-10T11:54:01Z",
-        "user_type": "regular"
-    },
-    "biking2024s": {
-        "user": "biking2024s",
-        "email": "haF3MBi7Ott8NxR+Kzt8CgndfIe4sPGsSYq4qs6j8Q==",
-        "password": null,
-        "phone_number": "35N2Rp0a62Kd1qLh9sMp/U4l+7joLinZRgANjQ==",
-        "is_used": true,
-        "last_login": "2024-12-10T12:53:13Z",
-        "user_type": "regular"
-    },
-    "sa1sd213": {
-        "user": "sa1sd213",
-        "email": "LN0GEaisGc2x1qFCFNVoxXl6s91XGXkJCA3gJUad",
-        "password": null,
-        "phone_number": "cqNle+h3F8zVAZx6rEdGkPUyCyNd6DkFsNNwXA==",
-        "is_used": true,
-        "last_login": "2024-12-10T13:09:12Z",
-        "user_type": "regular"
     }
 }
