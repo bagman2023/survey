@@ -61,5 +61,14 @@
         "is_used": true,
         "last_login": "2024-12-10T12:53:13Z",
         "user_type": "regular"
+    },
+    "sa1sd213": {
+        "user": "sa1sd213",
+        "email": "LN0GEaisGc2x1qFCFNVoxXl6s91XGXkJCA3gJUad",
+        "password": null,
+        "phone_number": "cqNle+h3F8zVAZx6rEdGkPUyCyNd6DkFsNNwXA==",
+        "is_used": true,
+        "last_login": "2024-12-10T13:09:12Z",
+        "user_type": "regular"
     }
 }
