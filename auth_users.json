@@ -151,5 +151,14 @@
         "is_used": true,
         "last_login": "2024-12-10T22:12:15Z",
         "user_type": "regular"
+    },
+    "asda123sad": {
+        "user": "asda123sad",
+        "email": "SlINNPRZoJxpRHH7n0+P2g2pQZBDCUM6QKT3CODi+zM=",
+        "password": null,
+        "phone_number": "MShCrvKzUHLzi+SsHIU8RiwJmrs7IQJRA/gfRA==",
+        "is_used": true,
+        "last_login": "2024-12-10T23:02:13Z",
+        "user_type": "regular"
     }
 }
