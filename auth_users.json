@@ -88,5 +88,14 @@
         "is_used": true,
         "last_login": "2024-12-10T20:53:38Z",
         "user_type": "regular"
+    },
+    "asdasd123": {
+        "user": "asdasd123",
+        "email": "whFwSbrRefYrMiH5QPr27ukBFXRa1wg319SQtKOITg==",
+        "password": null,
+        "phone_number": "xxGMPRqHqIGp4Zt4oft6c6MWYMXopiFHFZnIGQ==",
+        "is_used": true,
+        "last_login": "2024-12-10T20:58:57Z",
+        "user_type": "regular"
     }
 }
