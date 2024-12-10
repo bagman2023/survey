@@ -34,5 +34,14 @@
         "is_used": false,
         "last_login": "2024-12-04T15:00:00Z",
         "user_type": "regular"
+    },
+    "biking2024ss": {
+        "user": "biking2024ss",
+        "email": "Uu/nV4z9Yc82pIZscW14ou8zWRgguNvSkC2/zGoC",
+        "password": null,
+        "phone_number": "61biFwd9OnpxPUy4166x3/YkT7kM6kkkxQtW",
+        "is_used": true,
+        "last_login": "2024-12-10T14:39:13Z",
+        "user_type": "regular"
     }
 }
