@@ -21,3 +21,4 @@
 2024-12-17 18:43:56 - 使用记录成功 - 用户名: banhaha2025 - IP: 36.228.195.180
 2024-12-17 20:37:00 - 使用记录成功 - 用户名: banhaha2025 - IP: 获取IP时出错: HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1020)')))
 2024-12-17 22:19:13 - 使用记录成功 - 用户名: banhaha2025 - IP: 36.228.195.180
+2024-12-17 22:19:42 - 使用记录成功 - 用户名: banhaha2025 - IP: 36.228.195.180
