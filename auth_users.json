@@ -43,32 +43,5 @@
         "is_used": true,
         "last_login": "2024-12-24T01:13:51Z",
         "user_type": "regular"
-    },
-    "asd123da1": {
-        "user": "asd123da1",
-        "email": "cUIwoPQ9TbvD/pyh2QS6I3YRA9ECyy0qWuRnz+vYjU8=",
-        "password": "null",
-        "phone_number": "JRZ2DAARQVJNeKxPugS129NxQE/0mqfFIn5kMg==",
-        "is_used": true,
-        "last_login": "2024-12-24T01:41:38Z",
-        "user_type": "regular"
-    },
-    "sdad123123": {
-        "user": "sdad123123",
-        "email": "aIyxz9kqjiSUFcLwTi3d6x0CrKrcVRnPBAtQEQjoHog=",
-        "password": "null",
-        "phone_number": "GQ6PetDpJZ8wkFKPki5M96GEMczTqALrCp6JTA==",
-        "is_used": true,
-        "last_login": "2024-12-24T01:48:16Z",
-        "user_type": "regular"
-    },
-    "sdad123s145sa": {
-        "user": "sdad123s145sa",
-        "email": "rlmApvvX8kecpQuTgXa5P8DUR84nfF9b4p4uJqJXoxvR",
-        "password": "null",
-        "phone_number": "Wq596Sv+l/B9ayDgDatPQHicLJw6UFhFBKjgDw==",
-        "is_used": true,
-        "last_login": "2024-12-24T01:51:16Z",
-        "user_type": "regular"
     }
 }
