@@ -34,50 +34,5 @@
         "is_used": false,
         "last_login": "2024-12-04T15:00:00Z",
         "user_type": "regular"
-    },
-    "biking2024ss": {
-        "user": "biking2024ss",
-        "email": "Uu/nV4z9Yc82pIZscW14ou8zWRgguNvSkC2/zGoC",
-        "password": null,
-        "phone_number": "61biFwd9OnpxPUy4166x3/YkT7kM6kkkxQtW",
-        "is_used": true,
-        "last_login": "2024-12-10T14:39:13Z",
-        "user_type": "regular"
-    },
-    "asdasd123ad1": {
-        "user": "asdasd123ad1",
-        "email": "QCloLhbpOP3BzupA8JyII3/aM1CzI+XACG4Eq3FtH2jFj5M=",
-        "password": null,
-        "phone_number": "TtNbQqkO1lGFaBud0K3foCVo3CSVtBh3tiT7dQ==",
-        "is_used": true,
-        "last_login": "2024-12-17T12:22:06Z",
-        "user_type": "regular"
-    },
-    "banhaha2025": {
-        "user": "banhaha2025",
-        "email": "HgpqS2euJGZ6LzpemLowswTz4W5UXeO3U2dJuMbN",
-        "password": null,
-        "phone_number": "Prp1WXDKr70JhOuWOnUJmUoNreEhbsYiLTpv",
-        "is_used": true,
-        "last_login": "2024-12-20T19:44:57Z",
-        "user_type": "regular"
-    },
-    "biking20242s": {
-        "user": "biking20242s",
-        "email": "Zuq1tOxfdvFHYEFkiOXc9UN+B58ceCNXa8jEwwguuBUt",
-        "password": null,
-        "phone_number": "282hHdTJXw6kjr0Cmil/P7NiLCAMIbhj7ySbnw==",
-        "is_used": true,
-        "last_login": "2024-12-23T20:33:13Z",
-        "user_type": "regular"
-    },
-    "bbba213gfw": {
-        "user": "bbba213gfw",
-        "email": "F+kGx8rBJ2iphoOyC2qz712LUKfAjQuStkfVSp8=",
-        "password": null,
-        "phone_number": "ZISG/+rJSpirSLNJ4oexjUMexPbz+z/f6cPWAA==",
-        "is_used": true,
-        "last_login": "2024-12-23T20:46:44Z",
-        "user_type": "regular"
     }
 }
