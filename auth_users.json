@@ -52,5 +52,14 @@
         "is_used": true,
         "last_login": "2024-12-24T01:41:38Z",
         "user_type": "regular"
+    },
+    "sdad123123": {
+        "user": "sdad123123",
+        "email": "aIyxz9kqjiSUFcLwTi3d6x0CrKrcVRnPBAtQEQjoHog=",
+        "password": "null",
+        "phone_number": "GQ6PetDpJZ8wkFKPki5M96GEMczTqALrCp6JTA==",
+        "is_used": true,
+        "last_login": "2024-12-24T01:48:16Z",
+        "user_type": "regular"
     }
 }
