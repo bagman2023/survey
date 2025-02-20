@@ -51,3 +51,4 @@
 2025-02-20 22:20:46 - 使用记录成功 - 用户名: bagman2023 - IP: 1.161.47.2
 2025-02-20 22:25:29 - 使用记录成功 - 用户名: bagman2023 - IP: 1.161.47.2
 2025-02-20 22:29:54 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)')))
+2025-02-20 22:43:36 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)')))
