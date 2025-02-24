@@ -507,3 +507,4 @@
 2025-02-24 12:15:57 - 使用记录成功 - 用户名: bagman2023 - IP: 61.230.147.33
 2025-02-24 12:22:25 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: HTTPSConnectionPool(host='api.ipify.org', port=443): Read timed out. (read timeout=5)
 2025-02-24 12:24:48 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1018)')))
+2025-02-24 12:26:30 - 使用记录成功 - 用户名: bagman2023 - IP: 61.230.147.33
