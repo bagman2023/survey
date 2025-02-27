@@ -1111,3 +1111,4 @@
 2025-02-27 13:20:31 - 使用记录成功 - 用户名: bagman2023 - IP: 1.162.16.74
 2025-02-27 13:21:25 - 使用记录成功 - 用户名: bagman2023 - IP: 1.162.16.74
 2025-02-27 13:23:41 - 使用记录成功 - 用户名: bagman2023 - IP: 1.162.16.74
+2025-02-27 13:24:56 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: HTTPSConnectionPool(host='api.ipify.org', port=443): Read timed out. (read timeout=5)
