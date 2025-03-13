@@ -1542,3 +1542,4 @@
 2025-03-12 23:17:29 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
 2025-03-12 23:19:48 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
 2025-03-13 08:18:09 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: HTTPSConnectionPool(host='api.ipify.org', port=443): Read timed out. (read timeout=5)
+2025-03-13 09:13:29 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: HTTPSConnectionPool(host='api.ipify.org', port=443): Read timed out. (read timeout=5)
