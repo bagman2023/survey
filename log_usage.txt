@@ -1066,3 +1066,4 @@
 2025-04-11 12:29:28 - 使用记录成功 - 用户名: bagman2023 - IP: 61.228.69.118
 2025-04-11 12:36:10 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
 2025-04-11 12:38:09 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2025-04-11 12:41:05 - 使用记录成功 - 用户名: bagman2023 - IP: 获取IP时出错: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
