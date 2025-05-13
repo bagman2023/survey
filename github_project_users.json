@@ -13,20 +13,6 @@
             "email": "user2@qq.com",
             "last_modified": "2025-05-06T14:53:20Z",
             "account_level": "user"
-        },
-        {
-            "github_username": "yseqeq123",
-            "phone_number": "24124124124",
-            "email": "961235686@qq.com",
-            "last_modified": "2025-05-13T15:19:47Z",
-            "account_level": "user"
-        },
-        {
-            "github_username": "24234",
-            "phone_number": "24234",
-            "email": "234234",
-            "last_modified": "2025-05-13T23:51:46Z",
-            "account_level": "user"
         }
     ]
 }
