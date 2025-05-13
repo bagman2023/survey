@@ -3,7 +3,7 @@
         {
             "github_username": "user1",
             "phone_number": "23532452351",
-            "email": "961234342@qq.com",
+            "email": "961235686@qq.com",
             "last_modified": "2025-05-06T14:52:59Z",
             "account_level": "admin"
         },
@@ -12,20 +12,6 @@
             "phone_number": "0987654321",
             "email": "user2@qq.com",
             "last_modified": "2025-05-06T14:53:20Z",
-            "account_level": "user"
-        },
-        {
-            "github_username": "user1123",
-            "phone_number": "24234234234",
-            "email": "961235444@qq.com",
-            "last_modified": "2025-05-14T00:06:27Z",
-            "account_level": "user"
-        },
-        {
-            "github_username": "usaeq123",
-            "phone_number": "435235235245",
-            "email": "961235686@qq.com",
-            "last_modified": "2025-05-13T16:08:17Z",
             "account_level": "user"
         }
     ]
