@@ -1,1 +1,116 @@
-{}
+{
+    "tasks": [
+        {
+            "id": "25-0001",
+            "task_duration": "01周",
+            "task_type": "方案制作",
+            "task_status": "发布中",
+            "task_reward": "001千"
+        },
+        {
+            "id": "25-0002",
+            "task_duration": "02周",
+            "task_type": "产品报价",
+            "task_status": "已结束",
+            "task_reward": "002千"
+        },
+        {
+            "id": "25-0003",
+            "task_duration": "03周",
+            "task_type": "招标投标",
+            "task_status": "已结束",
+            "task_reward": "003千"
+        },
+        {
+            "id": "25-0004",
+            "task_duration": "04周",
+            "task_type": "产品报价",
+            "task_status": "已结束",
+            "task_reward": "004千"
+        },
+        {
+            "id": "25-0005",
+            "task_duration": "05周",
+            "task_type": "方案制作",
+            "task_status": "发布中",
+            "task_reward": "005千"
+        },
+        {
+            "id": "25-0006",
+            "task_duration": "06周",
+            "task_type": "招标投标",
+            "task_status": "发布中",
+            "task_reward": "006千"
+        },
+        {
+            "id": "25-0007",
+            "task_duration": "07周",
+            "task_type": "产品报价",
+            "task_status": "发布中",
+            "task_reward": "007千"
+        },
+        {
+            "id": "25-0008",
+            "task_duration": "08周",
+            "task_type": "招标投标",
+            "task_status": "已领取",
+            "task_reward": "008千"
+        },
+        {
+            "id": "25-0009",
+            "task_duration": "09周",
+            "task_type": "方案制作",
+            "task_status": "已结束",
+            "task_reward": "009千"
+        },
+        {
+            "id": "25-0010",
+            "task_duration": "10周",
+            "task_type": "产品报价",
+            "task_status": "已领取",
+            "task_reward": "010千"
+        },
+        {
+            "id": "25-0011",
+            "task_duration": "11周",
+            "task_type": "招标投标",
+            "task_status": "已领取",
+            "task_reward": "011千"
+        },
+        {
+            "id": "25-0012",
+            "task_duration": "12周",
+            "task_type": "方案制作",
+            "task_status": "已领取",
+            "task_reward": "012千"
+        },
+        {
+            "id": "25-0013",
+            "task_duration": "13周",
+            "task_type": "产品报价",
+            "task_status": "已领取",
+            "task_reward": "013千"
+        },
+        {
+            "id": "25-0014",
+            "task_duration": "14周",
+            "task_type": "招标投标",
+            "task_status": "已领取",
+            "task_reward": "014千"
+        },
+        {
+            "id": "25-0015",
+            "task_duration": "15周",
+            "task_type": "方案制作",
+            "task_status": "已结束",
+            "task_reward": "015千"
+        },
+        {
+            "id": "25-0016",
+            "task_duration": "16周",
+            "task_type": "产品报价",
+            "task_status": "已领取",
+            "task_reward": "016千"
+        }
+    ]
+}
