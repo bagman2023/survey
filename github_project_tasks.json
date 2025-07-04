@@ -111,6 +111,20 @@
       "task_type": "产品报价",
       "task_status": "被领取",
       "task_reward": "016千"
+    },
+    {
+      "id": "25-0017",
+      "task_duration": "17周",
+      "task_type": "招标投标",
+      "task_status": "被领取",
+      "task_reward": "017千"
+    },
+    {
+      "id": "25-0018",
+      "task_duration": "18周",
+      "task_type": "方案制作",
+      "task_status": "被领取",
+      "task_reward": "018千"
     }
   ]
 }
