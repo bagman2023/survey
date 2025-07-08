@@ -161,6 +161,24 @@
       "task_reward": "018千",
       "task_publisher": "Admin",
       "task_applicants": ["user1", "user2"]
+    },
+    {
+      "id": "25-0019",
+      "task_duration": "19周",
+      "task_type": "产品报价",
+      "task_status": "发布中",
+      "task_reward": "019千",
+      "task_publisher": "Admin",
+      "task_applicants": ["user3", "user4"]
+    },
+    {
+      "id": "25-0020",
+      "task_duration": "20周",
+      "task_type": "方案制作",
+      "task_status": "被领取",
+      "task_reward": "020千",
+      "task_publisher": "Admin",
+      "task_applicants": ["user5", "user6"]
     }
   ]
 }
