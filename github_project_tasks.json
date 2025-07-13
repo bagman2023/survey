@@ -11,6 +11,7 @@
         {"applicant_name": "user1", "number": "13811112222"},
         {"applicant_name": "user3", "number": "13933334444"}
       ],
+      "task_accepted_users": [],
       "publish_date": "2025年07月09日 10:00",
       "task_description": "设计初步方案，完成草图绘制，收集客户反馈，进行修改"
     },
@@ -22,6 +23,7 @@
       "task_reward": "002千",
       "task_publisher": "Admin",
       "task_applicants": [],
+      "task_accepted_users": [],
       "publish_date": "2025年06月15日 09:30",
       "task_description": "根据客户要求提供产品报价和详细说明，并进行后续沟通"
     },
@@ -33,6 +35,9 @@
       "task_reward": "003千",
       "task_publisher": "Admin",
       "task_applicants": [
+        {"applicant_name": "user1", "number": "13555556666"}
+      ],
+      "task_accepted_users": [
         {"applicant_name": "user1", "number": "13555556666"}
       ],
       "publish_date": "2025年06月20日 14:00",
@@ -50,6 +55,7 @@
         {"applicant_name": "user2", "number": "13222223333"},
         {"applicant_name": "user5", "number": "13599997777"}
       ],
+      "task_accepted_users": [],
       "publish_date": "2025年06月22日 08:00",
       "task_description": "准备产品报价单，审核相关条款，确保客户理解清楚"
     },
@@ -61,6 +67,7 @@
       "task_reward": "005千",
       "task_publisher": "Admin",
       "task_applicants": [],
+      "task_accepted_users": [],
       "publish_date": "2025年07月01日 10:00",
       "task_description": "完成方案设计，并整理相关资料与文档，准备客户展示"
     },
@@ -76,6 +83,9 @@
         {"applicant_name": "user4", "number": "13877778888"},
         {"applicant_name": "user7", "number": "13700008888"}
       ],
+      "task_accepted_users": [
+        {"applicant_name": "user4", "number": "13877778888"}
+      ],
       "publish_date": "2025年07月05日 16:00",
       "task_description": "撰写投标书并准备相关的投标文件，确保按时提交"
     },
@@ -89,6 +99,7 @@
       "task_applicants": [
         {"applicant_name": "user1", "number": "13711112222"}
       ],
+      "task_accepted_users": [],
       "publish_date": "2025年07月07日 12:00",
       "task_description": "更新产品报价，审查合同条款并提供反馈，确保报价准确"
     },
@@ -104,6 +115,7 @@
         {"applicant_name": "user3", "number": "13512345678"},
         {"applicant_name": "user1", "number": "13512345678"}
       ],
+      "task_accepted_users": [],
       "publish_date": "2025年06月25日 11:00",
       "task_description": "组织招标投标材料，完成提交和反馈，跟进相关问题"
     },
@@ -117,6 +129,9 @@
       "task_applicants": [
         {"applicant_name": "user5", "number": "13813579135"}
       ],
+      "task_accepted_users": [
+        {"applicant_name": "user5", "number": "13813579135"}
+      ],
       "publish_date": "2025年05月18日 17:00",
       "task_description": "根据客户需求完成方案设计，收集反馈并修改"
     },
@@ -128,6 +143,7 @@
       "task_reward": "010千",
       "task_publisher": "Admin",
       "task_applicants": [],
+      "task_accepted_users": [],
       "publish_date": "2025年06月30日 09:00",
       "task_description": "完成产品报价，并提供详细的费用分析，客户确认"
     },
@@ -140,6 +156,9 @@
       "task_publisher": "Admin",
       "task_applicants": [
         {"applicant_name": "user2", "number": "13844445555"},
+        {"applicant_name": "user1", "number": "13933334444"}
+      ],
+      "task_accepted_users": [
         {"applicant_name": "user1", "number": "13933334444"}
       ],
       "publish_date": "2025年06月28日 10:00",
@@ -155,6 +174,7 @@
       "task_applicants": [
         {"applicant_name": "user1", "number": "13777778888"}
       ],
+      "task_accepted_users": [],
       "publish_date": "2025年06月30日 14:30",
       "task_description": "根据需求制作并提交方案，进行调整，确保符合标准"
     },
@@ -168,6 +188,7 @@
       "task_applicants": [
         {"applicant_name": "user2", "number": "13466668888"}
       ],
+      "task_accepted_users": [],
       "publish_date": "2025年06月29日 13:00",
       "task_description": "编制报价方案，确保准确并及时提交，客户确认"
     },
@@ -182,6 +203,9 @@
         {"applicant_name": "user1", "number": "13888889999"},
         {"applicant_name": "user6", "number": "13799990000"}
       ],
+      "task_accepted_users": [
+        {"applicant_name": "user1", "number": "13888889999"}
+      ],
       "publish_date": "2025年06月30日 15:00",
       "task_description": "组织并提交招标投标文件，跟进评标情况"
     },
@@ -193,6 +217,7 @@
       "task_reward": "015千",
       "task_publisher": "Admin",
       "task_applicants": [],
+      "task_accepted_users": [],
       "publish_date": "2025年06月18日 11:00",
       "task_description": "完成设计并准备客户审核，修改并提交"
     },
@@ -207,6 +232,7 @@
         {"applicant_name": "user1", "number": "13455556666"},
         {"applicant_name": "user2", "number": "13366667777"}
       ],
+      "task_accepted_users": [],
       "publish_date": "2025年06月22日 12:00",
       "task_description": "提交报价并开始后续协商，客户确认"
     },
@@ -218,6 +244,9 @@
       "task_reward": "017千",
       "task_publisher": "Admin",
       "task_applicants": [
+        {"applicant_name": "user8", "number": "13855556666"}
+      ],
+      "task_accepted_users": [
         {"applicant_name": "user8", "number": "13855556666"}
       ],
       "publish_date": "2025年06月24日 14:00",
@@ -234,6 +263,7 @@
         {"applicant_name": "user2", "number": "13622223333"},
         {"applicant_name": "user1", "number": "13711112222"}
       ],
+      "task_accepted_users": [],
       "publish_date": "2025年06月26日 13:00",
       "task_description": "设计方案并交付客户，修改并确认"
     },
@@ -245,6 +275,7 @@
       "task_reward": "019千",
       "task_publisher": "Admin",
       "task_applicants": [],
+      "task_accepted_users": [],
       "publish_date": "2025年07月05日 12:00",
       "task_description": "更新报价单并与客户确认，提供后续服务"
     },
@@ -258,6 +289,9 @@
       "task_applicants": [
         {"applicant_name": "user1", "number": "13777778888"},
         {"applicant_name": "user6", "number": "13688889999"},
+        {"applicant_name": "user7", "number": "13988887777"}
+      ],
+      "task_accepted_users": [
         {"applicant_name": "user7", "number": "13988887777"}
       ],
       "publish_date": "2025年07月02日 10:00",
