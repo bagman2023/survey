@@ -19,7 +19,7 @@
       "id": "25-0002",
       "task_duration": "02周",
       "task_type": "产品报价",
-      "task_status": "已结束",
+      "task_status": "发布中",
       "task_reward": "002千",
       "task_publisher": "Admin",
       "task_applicants": [],
@@ -31,7 +31,7 @@
       "id": "25-0003",
       "task_duration": "03周",
       "task_type": "招标投标",
-      "task_status": "已结束",
+      "task_status": "被领取",
       "task_reward": "003千",
       "task_publisher": "Admin",
       "task_applicants": [
@@ -47,7 +47,7 @@
       "id": "25-0004",
       "task_duration": "04周",
       "task_type": "产品报价",
-      "task_status": "已结束",
+      "task_status": "发布中",
       "task_reward": "004千",
       "task_publisher": "Admin",
       "task_applicants": [
@@ -75,7 +75,7 @@
       "id": "25-0006",
       "task_duration": "06周",
       "task_type": "招标投标",
-      "task_status": "发布中",
+      "task_status": "被领取",
       "task_reward": "006千",
       "task_publisher": "Admin",
       "task_applicants": [
@@ -107,7 +107,7 @@
       "id": "25-0008",
       "task_duration": "08周",
       "task_type": "招标投标",
-      "task_status": "被领取",
+      "task_status": "发布中",
       "task_reward": "008千",
       "task_publisher": "Admin",
       "task_applicants": [
@@ -123,7 +123,7 @@
       "id": "25-0009",
       "task_duration": "09周",
       "task_type": "方案制作",
-      "task_status": "已结束",
+      "task_status": "被领取",
       "task_reward": "009千",
       "task_publisher": "Admin",
       "task_applicants": [
@@ -139,7 +139,7 @@
       "id": "25-0010",
       "task_duration": "10周",
       "task_type": "产品报价",
-      "task_status": "被领取",
+      "task_status": "发布中",
       "task_reward": "010千",
       "task_publisher": "Admin",
       "task_applicants": [],
@@ -168,7 +168,7 @@
       "id": "25-0012",
       "task_duration": "12周",
       "task_type": "方案制作",
-      "task_status": "被领取",
+      "task_status": "发布中",
       "task_reward": "012千",
       "task_publisher": "Admin",
       "task_applicants": [
@@ -182,7 +182,7 @@
       "id": "25-0013",
       "task_duration": "13周",
       "task_type": "产品报价",
-      "task_status": "被领取",
+      "task_status": "发布中",
       "task_reward": "013千",
       "task_publisher": "Admin",
       "task_applicants": [
@@ -213,7 +213,7 @@
       "id": "25-0015",
       "task_duration": "15周",
       "task_type": "方案制作",
-      "task_status": "已结束",
+      "task_status": "发布中",
       "task_reward": "015千",
       "task_publisher": "Admin",
       "task_applicants": [],
@@ -225,7 +225,7 @@
       "id": "25-0016",
       "task_duration": "16周",
       "task_type": "产品报价",
-      "task_status": "被领取",
+      "task_status": "发布中",
       "task_reward": "016千",
       "task_publisher": "Admin",
       "task_applicants": [
@@ -256,7 +256,7 @@
       "id": "25-0018",
       "task_duration": "18周",
       "task_type": "方案制作",
-      "task_status": "被领取",
+      "task_status": "发布中",
       "task_reward": "018千",
       "task_publisher": "Admin",
       "task_applicants": [
