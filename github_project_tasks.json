@@ -21,7 +21,9 @@
       ],
       "task_accepted_users": [],
       "publish_date": "2025年07月09日 10:00",
-      "task_description": "设计初步方案，完成草图绘制，收集客户反馈，进行修改。"
+      "task_description": "设计初步方案，完成草图绘制，收集客户反馈，进行修改。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0002",
@@ -33,7 +35,9 @@
       "task_applicants": [],
       "task_accepted_users": [],
       "publish_date": "2025年06月15日 09:30",
-      "task_description": "根据客户要求提供产品报价和详细说明，并进行后续沟通。"
+      "task_description": "根据客户要求提供产品报价和详细说明，并进行后续沟通。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0003",
@@ -57,7 +61,9 @@
         }
       ],
       "publish_date": "2025年06月20日 14:00",
-      "task_description": "整理招标文件，完成投标书编写和提交，确保符合标准。"
+      "task_description": "整理招标文件，完成投标书编写和提交，确保符合标准。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0004",
@@ -85,7 +91,9 @@
       ],
       "task_accepted_users": [],
       "publish_date": "2025年06月22日 08:00",
-      "task_description": "准备产品报价单，审核相关条款，确保客户理解清楚。"
+      "task_description": "准备产品报价单，审核相关条款，确保客户理解清楚。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0005",
@@ -97,7 +105,9 @@
       "task_applicants": [],
       "task_accepted_users": [],
       "publish_date": "2025年07月01日 10:00",
-      "task_description": "完成方案设计，并整理相关资料与文档，准备客户展示。"
+      "task_description": "完成方案设计，并整理相关资料与文档，准备客户展示。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0006",
@@ -131,7 +141,9 @@
         }
       ],
       "publish_date": "2025年07月05日 16:00",
-      "task_description": "撰写投标书并准备相关的投标文件，确保按时提交。"
+      "task_description": "撰写投标书并准备相关的投标文件，确保按时提交。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0007",
@@ -149,7 +161,9 @@
       ],
       "task_accepted_users": [],
       "publish_date": "2025年07月07日 12:00",
-      "task_description": "更新产品报价，审查合同条款并提供反馈，确保报价准确。"
+      "task_description": "更新产品报价，审查合同条款并提供反馈，确保报价准确。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0008",
@@ -177,7 +191,9 @@
       ],
       "task_accepted_users": [],
       "publish_date": "2025年06月25日 11:00",
-      "task_description": "组织招标投标材料，完成提交和反馈，跟进相关问题。"
+      "task_description": "组织招标投标材料，完成提交和反馈，跟进相关问题。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0009",
@@ -201,7 +217,9 @@
         }
       ],
       "publish_date": "2025年05月18日 17:00",
-      "task_description": "根据客户需求完成方案设计，收集反馈并修改。"
+      "task_description": "根据客户需求完成方案设计，收集反馈并修改。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0010",
@@ -213,7 +231,9 @@
       "task_applicants": [],
       "task_accepted_users": [],
       "publish_date": "2025年06月30日 09:00",
-      "task_description": "完成产品报价，并提供详细的费用分析，客户确认。"
+      "task_description": "完成产品报价，并提供详细的费用分析，客户确认。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0011",
@@ -242,7 +262,9 @@
         }
       ],
       "publish_date": "2025年06月28日 10:00",
-      "task_description": "投标文档的整理和提交通知，跟进评标过程。"
+      "task_description": "投标文档的整理和提交通知，跟进评标过程。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0012",
@@ -260,7 +282,9 @@
       ],
       "task_accepted_users": [],
       "publish_date": "2025年06月30日 14:30",
-      "task_description": "根据需求制作并提交方案，进行调整，确保符合标准。"
+      "task_description": "根据需求制作并提交方案，进行调整，确保符合标准。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0013",
@@ -278,7 +302,9 @@
       ],
       "task_accepted_users": [],
       "publish_date": "2025年06月29日 13:00",
-      "task_description": "编制报价方案，确保准确并及时提交，客户确认。"
+      "task_description": "编制报价方案，确保准确并及时提交，客户确认。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0014",
@@ -307,7 +333,9 @@
         }
       ],
       "publish_date": "2025年06月30日 15:00",
-      "task_description": "组织并提交招标投标文件，跟进评标情况。"
+      "task_description": "组织并提交招标投标文件，跟进评标情况。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0015",
@@ -316,16 +344,12 @@
       "task_status": "发布中",
       "task_reward": "015千",
       "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-07-16 12:30:42"
-        }
-      ],
+      "task_applicants": [],
       "task_accepted_users": [],
       "publish_date": "2025年06月18日 11:00",
-      "task_description": "完成设计并准备客户审核，修改并提交。"
+      "task_description": "完成设计并准备客户审核，修改并提交。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0016",
@@ -348,7 +372,9 @@
       ],
       "task_accepted_users": [],
       "publish_date": "2025年06月22日 12:00",
-      "task_description": "提交报价并开始后续协商，客户确认。"
+      "task_description": "提交报价并开始后续协商，客户确认。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0017",
@@ -372,7 +398,9 @@
         }
       ],
       "publish_date": "2025年06月24日 14:00",
-      "task_description": "整理并提交投标文件，评标后及时反馈。"
+      "task_description": "整理并提交投标文件，评标后及时反馈。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0018",
@@ -395,7 +423,9 @@
       ],
       "task_accepted_users": [],
       "publish_date": "2025年06月26日 13:00",
-      "task_description": "设计方案并交付客户，修改并确认。"
+      "task_description": "设计方案并交付客户，修改并确认。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0019",
@@ -407,7 +437,9 @@
       "task_applicants": [],
       "task_accepted_users": [],
       "publish_date": "2025年07月05日 12:00",
-      "task_description": "更新报价单并与客户确认，提供后续服务。"
+      "task_description": "更新报价单并与客户确认，提供后续服务。",
+      "task_followed": false,
+      "task_hidden": false
     },
     {
       "id": "25-0020",
@@ -441,7 +473,9 @@
         }
       ],
       "publish_date": "2025年07月02日 10:00",
-      "task_description": "完成方案设计并提交报告，等待客户反馈。"
+      "task_description": "完成方案设计并提交报告，等待客户反馈。",
+      "task_followed": false,
+      "task_hidden": false
     }
   ]
 }
