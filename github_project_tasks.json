@@ -291,7 +291,12 @@
       "task_status": "发布中",
       "task_reward": "015千",
       "task_publisher": "Admin",
-      "task_applicants": [],
+      "task_applicants": [
+        {
+          "applicant_name": "user1",
+          "number": "23532452351"
+        }
+      ],
       "task_accepted_users": [],
       "publish_date": "2025年06月18日 11:00",
       "task_description": "完成设计并准备客户审核，修改并提交。"
