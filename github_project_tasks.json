@@ -146,13 +146,7 @@
       "task_status": "发布中",
       "task_reward": "007千",
       "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "13711112222",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
+      "task_applicants": [],
       "task_accepted_users": [],
       "publish_date": "2025年07月07日 12:00",
       "task_description": "更新产品报价，审查合同条款并提供反馈，确保报价准确。"
@@ -172,11 +166,6 @@
         },
         {
           "applicant_name": "user3",
-          "number": "13512345678",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user1",
           "number": "13512345678",
           "update_time": "2025-07-16 09:00:00"
         }
@@ -217,11 +206,6 @@
       "task_reward": "010千",
       "task_publisher": "Admin",
       "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-07-16 13:01:56"
-        }
       ],
       "task_accepted_users": [],
       "publish_date": "2025年06月30日 09:00",
@@ -333,13 +317,7 @@
       "task_status": "发布中",
       "task_reward": "015千",
       "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-07-16 12:45:36"
-        }
-      ],
+      "task_applicants": [],
       "task_accepted_users": [],
       "publish_date": "2025年06月18日 11:00",
       "task_description": "完成设计并准备客户审核，修改并提交。"
@@ -402,11 +380,6 @@
         {
           "applicant_name": "user2",
           "number": "13622223333",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user1",
-          "number": "13711112222",
           "update_time": "2025-07-16 09:00:00"
         }
       ],
