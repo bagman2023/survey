@@ -1,4 +1,3 @@
-
 {
   "tasks": [
     {
@@ -207,6 +206,11 @@
       "task_reward": "010千",
       "task_publisher": "Admin",
       "task_applicants": [
+        {
+          "applicant_name": "user1",
+          "number": "23532452351",
+          "update_time": "2025-07-16 15:04:12"
+        }
       ],
       "task_accepted_users": [],
       "publish_date": "2025年06月30日 09:00",
