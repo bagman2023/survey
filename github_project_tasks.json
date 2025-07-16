@@ -275,11 +275,6 @@
           "number": "13466668888",
           "update_time": "2025-07-16 09:00:00"
         },
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-07-16 11:21:00"
-        }
       ],
       "task_accepted_users": [],
       "publish_date": "2025年06月29日 13:00",
@@ -321,13 +316,7 @@
       "task_status": "发布中",
       "task_reward": "015千",
       "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-07-16 11:15:24"
-        }
-      ],
+      "task_applicants": [],
       "task_accepted_users": [],
       "publish_date": "2025年06月18日 11:00",
       "task_description": "完成设计并准备客户审核，修改并提交。"
