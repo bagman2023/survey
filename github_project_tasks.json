@@ -30,7 +30,13 @@
       "task_status": "发布中",
       "task_reward": "002千",
       "task_publisher": "Admin",
-      "task_applicants": [],
+      "task_applicants": [
+        {
+          "applicant_name": "user1",
+          "number": "23532452351",
+          "update_time": "2025-07-16 13:02:12"
+        }
+      ],
       "task_accepted_users": [],
       "publish_date": "2025年06月15日 09:30",
       "task_description": "根据客户要求提供产品报价和详细说明，并进行后续沟通。"
