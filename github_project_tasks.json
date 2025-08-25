@@ -146,7 +146,13 @@
       "task_status": "发布中",
       "task_reward": "007千",
       "task_publisher": "Admin",
-      "task_applicants": [],
+      "task_applicants": [
+        {
+          "applicant_name": "user1",
+          "number": "23532452351",
+          "update_time": "2025-08-26 07:18:35"
+        }
+      ],
       "task_accepted_users": [],
       "publish_date": "2025年07月07日 12:00",
       "task_description": "更新产品报价，审查合同条款并提供反馈，确保报价准确。"
