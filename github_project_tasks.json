@@ -9,11 +9,6 @@
       "task_publisher": "Admin",
       "task_applicants": [
         {
-          "applicant_name": "user1",
-          "number": "1381142222",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
           "applicant_name": "user3",
           "number": "13933334444",
           "update_time": "2025-07-16 09:00:00"
@@ -82,11 +77,6 @@
           "applicant_name": "user5",
           "number": "13599997777",
           "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-08-26 07:17:59"
         }
       ],
       "task_accepted_users": [],
