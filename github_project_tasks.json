@@ -1,461 +1,79 @@
 {
-  "tasks": [
+  "系统公告MS": [
     {
-      "id": "25-0001",
-      "task_duration": "01周",
-      "task_type": "方案制作",
-      "task_status": "发布中",
-      "task_reward": "004千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user3",
-          "number": "1393334444",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年07月09日 10:00",
-      "task_description": "设计初步方案，完成草图绘制，收集客户反馈，进行修改。"
+      "MS_id": "MS26-0410-0001",
+      "MS_title": "账号安全提醒234234234",
+      "MS_status": "新消息",
+      "MS_publish_date": "2026-04-10",
+      "MS_description": "请定期修改登录密码并开启必要的安全校验，避免账号信息泄露。"
     },
     {
-      "id": "25-0002",
-      "task_duration": "02周",
-      "task_type": "产品报价",
-      "task_status": "发布中",
-      "task_reward": "002千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-07-16 13:02:12"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年06月15日 09:30",
-      "task_description": "根据客户要求提供产品报价和详细说明，并进行后续沟通。"
+      "MS_id": "MS26-0409-0001",
+      "MS_title": "服务使用公告",
+      "MS_status": "新消息",
+      "MS_publish_date": "2026-04-09",
+      "MS_description": "当前消息中心已启用静态数据模式，列表内容不再依赖本地 JSON 文件加载。"
     },
     {
-      "id": "25-0003",
-      "task_duration": "03周",
-      "task_type": "招标投标",
-      "task_status": "被领取",
-      "task_reward": "003千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "13555556666",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [
-        {
-          "applicant_name": "user1",
-          "number": "13555556666",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "publish_date": "2025年06月20日 14:00",
-      "task_description": "整理招标文件，完成投标书编写和提交，确保符合标准。"
+      "MS_id": "MS26-0408-0001",
+      "MS_title": "版本更新提醒",
+      "MS_status": "新消息",
+      "MS_publish_date": "2026-04-08",
+      "MS_description": "本次更新主要优化窗口布局、悬浮详情展示以及菜单切换的交互体验。"
     },
     {
-      "id": "25-0004",
-      "task_duration": "04周",
-      "task_type": "产品报价",
-      "task_status": "发布中",
-      "task_reward": "004千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user2",
-          "number": "13222223333",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user5",
-          "number": "13599997777",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年06月22日 08:00",
-      "task_description": "准备产品报价单，审核相关条款，确保客户理解清楚。"
+      "MS_id": "MS26-0407-0001",
+      "MS_title": "系统维护通知",
+      "MS_status": "新消息",
+      "MS_publish_date": "2026-04-07",
+      "MS_description": "系统维护期间部分功能可能出现短时波动，请以窗口内实际展示内容为准。"
     },
     {
-      "id": "25-0005",
-      "task_duration": "05周",
-      "task_type": "方案制作",
-      "task_status": "发布中",
-      "task_reward": "005千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "23532452352",
-          "update_time": "2025-08-26 08:31:16"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年07月01日 10:00",
-      "task_description": "完成方案设计，并整理相关资料与文档，准备客户展示。"
+      "MS_id": "MS26-0406-0001",
+      "MS_title": "登录策略调整通知",
+      "MS_status": "新消息",
+      "MS_publish_date": "2026-04-06",
+      "MS_description": "为提升系统稳定性，部分登录校验策略已完成调整，请按最新提示完成登录操作。"
     },
     {
-      "id": "25-0006",
-      "task_duration": "06周",
-      "task_type": "招标投标",
-      "task_status": "被领取",
-      "task_reward": "006千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "13988889999",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user4",
-          "number": "13877778888",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user7",
-          "number": "13700008888",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [
-        {
-          "applicant_name": "user4",
-          "number": "13877778888",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "publish_date": "2025年07月05日 16:00",
-      "task_description": "撰写投标书并准备相关的投标文件，确保按时提交。"
+      "MS_id": "MS26-0405-0001",
+      "MS_title": "功能体验优化说明",
+      "MS_status": "新消息",
+      "MS_publish_date": "2026-04-05",
+      "MS_description": "本次优化主要涉及消息列表交互、详情切换速度以及滚动按钮状态联动。"
     },
     {
-      "id": "25-0007",
-      "task_duration": "07周",
-      "task_type": "产品报价",
-      "task_status": "发布中",
-      "task_reward": "007千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-08-26 07:18:35"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年07月07日 12:00",
-      "task_description": "更新产品报价，审查合同条款并提供反馈，确保报价准确。"
+      "MS_id": "MS26-0404-0001",
+      "MS_title": "消息中心升级通知1231231231231231231231231231234123412341234",
+      "MS_status": "新消息",
+      "MS_publish_date": "2026-04-04",
+      "MS_description": "消息中心界面已完成升级，当前版本支持卡片式列表展示与详情页切换。"
     },
     {
-      "id": "25-0008",
-      "task_duration": "08周",
-      "task_type": "招标投标",
-      "task_status": "发布中",
-      "task_reward": "008千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user2",
-          "number": "13898765432",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user3",
-          "number": "13512345678",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年06月25日 11:00",
-      "task_description": "组织招标投标材料，完成提交和反馈，跟进相关问题。"
+      "MS_id": "MS26-0403-0001",
+      "MS_title": "数据展示规则公告",
+      "MS_status": "新消息",
+      "MS_publish_date": "2026-04-03",
+      "MS_description": "消息列表当前按照发布日期与编号倒序展示，便于优先查看最新内容。"
     },
     {
-      "id": "25-0009",
-      "task_duration": "09周",
-      "task_type": "方案制作",
-      "task_status": "已结束",
-      "task_reward": "009千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user5",
-          "number": "13813579135",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [
-        {
-          "applicant_name": "user5",
-          "number": "13813579135",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "publish_date": "2025年05月18日 17:00",
-      "task_description": "根据客户需求完成方案设计，收集反馈并修改。"
+      "MS_id": "MS26-0402-0001",
+      "MS_title": "平台使用提示",
+      "MS_status": "新消息",
+      "MS_publish_date": "2026-04-02",
+      "MS_description": "如遇界面显示异常，请优先检查资源文件是否完整，并确认程序运行环境正常。"
     },
     {
-      "id": "25-0010",
-      "task_duration": "10周",
-      "task_type": "产品报价",
-      "task_status": "发布中",
-      "task_reward": "010千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-07-16 15:04:12"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年06月30日 09:00",
-      "task_description": "完成产品报价，并提供详细的费用分析，客户确认。"
-    },
-    {
-      "id": "25-0011",
-      "task_duration": "11周",
-      "task_type": "招标投标",
-      "task_status": "被领取",
-      "task_reward": "011千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user2",
-          "number": "13844445555",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user1",
-          "number": "13933334444",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [
-        {
-          "applicant_name": "user1",
-          "number": "13933334444",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "publish_date": "2025年06月28日 10:00",
-      "task_description": "投标文档的整理和提交通知，跟进评标过程。"
-    },
-    {
-      "id": "25-0012",
-      "task_duration": "12周",
-      "task_type": "方案制作",
-      "task_status": "发布中",
-      "task_reward": "012千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "13777778888",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年06月30日 14:30",
-      "task_description": "根据需求制作并提交方案，进行调整，确保符合标准。"
-    },
-    {
-      "id": "25-0013",
-      "task_duration": "13周",
-      "task_type": "产品报价",
-      "task_status": "发布中",
-      "task_reward": "013千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user2",
-          "number": "13466668888",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-07-16 12:49:22"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年06月29日 13:00",
-      "task_description": "编制报价方案，确保准确并及时提交，客户确认。"
-    },
-    {
-      "id": "25-0014",
-      "task_duration": "14周",
-      "task_type": "招标投标",
-      "task_status": "被领取",
-      "task_reward": "014千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "13888889999",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user6",
-          "number": "13799990000",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [
-        {
-          "applicant_name": "user1",
-          "number": "13888889999",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "publish_date": "2025年06月30日 15:00",
-      "task_description": "组织并提交招标投标文件，跟进评标情况。"
-    },
-    {
-      "id": "25-0015",
-      "task_duration": "15周",
-      "task_type": "方案制作",
-      "task_status": "发布中",
-      "task_reward": "015千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-08-26 06:51:01"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年06月18日 11:00",
-      "task_description": "完成设计并准备客户审核，修改并提交。"
-    },
-    {
-      "id": "25-0016",
-      "task_duration": "16周",
-      "task_type": "产品报价",
-      "task_status": "发布中",
-      "task_reward": "016千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "13455556666",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user2",
-          "number": "13366667777",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年06月22日 12:00",
-      "task_description": "提交报价并开始后续协商，客户确认。"
-    },
-    {
-      "id": "25-0017",
-      "task_duration": "17周",
-      "task_type": "招标投标",
-      "task_status": "被领取",
-      "task_reward": "017千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user8",
-          "number": "13855556666",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [
-        {
-          "applicant_name": "user8",
-          "number": "13855556666",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "publish_date": "2025年06月24日 14:00",
-      "task_description": "整理并提交投标文件，评标后及时反馈。"
-    },
-    {
-      "id": "25-0018",
-      "task_duration": "18周",
-      "task_type": "方案制作",
-      "task_status": "发布中",
-      "task_reward": "018千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user2",
-          "number": "13622223333",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-12-02 08:00:10"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年06月26日 13:00",
-      "task_description": "设计方案并交付客户，修改并确认。"
-    },
-    {
-      "id": "25-0019",
-      "task_duration": "19周",
-      "task_type": "产品报价",
-      "task_status": "发布中",
-      "task_reward": "019千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "23532452351",
-          "update_time": "2025-07-16 12:54:20"
-        }
-      ],
-      "task_accepted_users": [],
-      "publish_date": "2025年07月05日 12:00",
-      "task_description": "更新报价单并与客户确认，提供后续服务。"
-    },
-    {
-      "id": "25-0020",
-      "task_duration": "20周",
-      "task_type": "方案制作",
-      "task_status": "被领取",
-      "task_reward": "020千",
-      "task_publisher": "Admin",
-      "task_applicants": [
-        {
-          "applicant_name": "user1",
-          "number": "13777778888",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user6",
-          "number": "13688889999",
-          "update_time": "2025-07-16 09:00:00"
-        },
-        {
-          "applicant_name": "user7",
-          "number": "13988887777",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "task_accepted_users": [
-        {
-          "applicant_name": "user7",
-          "number": "13988887777",
-          "update_time": "2025-07-16 09:00:00"
-        }
-      ],
-      "publish_date": "2025年07月02日 10:00",
-      "task_description": "完成方案设计并提交报告，等待客户反馈。"
+      "MS_id": "MS26-0401-0001",
+      "MS_title": "服务状态说明",
+      "MS_status": "新消息",
+      "MS_publish_date": "2026-04-01",
+      "MS_description": "当前系统公告为静态展示数据，后续可根据业务需要扩展为动态数据来源。"
     }
-  ]
+  ],
+  "更新日志UP": [],
+  "合作邀请CI": [],
+  "招商合作BZ": [],
+  "方案报价PQ": [],
+  "样品资料SP": []
 }
