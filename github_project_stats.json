@@ -1,1 +1,17 @@
-{}
+{
+    "schema_version": 1,
+    "last_updated": "2026-05-18 23:14:01",
+    "total_users": 1,
+    "users": {
+        "user1": {
+            "login_count": 10,
+            "first_login_time": "2026-05-12 14:31:44",
+            "last_login_time": "2026-05-18 23:13:53",
+            "monthly": {
+                "2026-05": 10
+            },
+            "last_upload_month": "2026-05",
+            "last_upload_time": "2026-05-18 23:14:01"
+        }
+    }
+}
